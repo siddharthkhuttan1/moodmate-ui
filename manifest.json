@@ -1,0 +1,20 @@
+{
+    "name": "MoodMate",
+    "short_name": "MoodMate",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4F46E5",
+    "icons": [
+        {
+            "src": "/icons/MM.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/icons/MoodmateAi.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
